@@ -1,11 +1,10 @@
 # Django CRM Project - Contact Management Project 
 
-## Live Demo - http://professionalcipher.pythonanywhere.com/ 
-[Comment on Youtube Video if not working & i will fix it] [Installation Video](https://youtu.be/A6mTN6G-adM)
 
 I am trying to create a Tutorial on How yo Create CRM or Contact Management System in Django. Basically this tutorial is creating while explaining video tutorial. This is the series of Django CRM Tutorial.
 
-![Image of CRM](https://studygyaan.com/wp-content/uploads/2020/02/Django-CRM-Website.jpg)
+![image](https://github.com/muslimbek77/DjangoCRM/assets/48023644/2e2d4517-534d-4850-bc39-9723fa3b521e)
+![image](https://github.com/muslimbek77/DjangoCRM/assets/48023644/8f814677-2c13-46b6-b12b-429e18ce0dec)
 
 ### Setup
 1. Create a folder and put all the files inside it.
